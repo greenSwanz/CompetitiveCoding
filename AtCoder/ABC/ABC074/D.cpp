@@ -18,7 +18,6 @@ int main(){
             B[i][j] = true;
         }
     }
-
     rep(i,N){
         if(A[i][i] != 0){
             cout << -1 << endl;
